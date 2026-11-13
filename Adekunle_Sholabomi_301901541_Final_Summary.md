@@ -1,6 +1,8 @@
 # MIT 8103 Advanced Database Systems
 
-**Gym and Fitness Centre Management System** · Sholabomi Adekunle · Student ID 301901541
+Gym and Fitness Centre Management System
+Sholabomi Adekunle
+Student ID 301901541
 
 ## Case study
 
@@ -57,4 +59,4 @@ I used GitHub Copilot and the portfolio generator to help prepare the database m
 - [MongoDB: data modelling](https://www.mongodb.com/docs/manual/data-modeling/)
 - [MongoDB: replication](https://www.mongodb.com/docs/manual/replication/)
 - [MongoDB: sharding](https://www.mongodb.com/docs/manual/sharding/)
-- [Mermaid: ER diagrams](https://www.drawdb.app/editor/diagrams/c0ab26b3-12d9-48ac-90d7-67b58a6051a7)
+- [DrawDB: ER diagrams](https://www.drawdb.app/editor/diagrams/c0ab26b3-12d9-48ac-90d7-67b58a6051a7)
